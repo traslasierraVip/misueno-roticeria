@@ -14,7 +14,7 @@ END:VCARD`;
     
     const link = document.createElement('a');
     link.href = url;
-    link.download = 'Contacto_TraslasierraVIP.vcf';
+    link.download = 'Contacto_Mi_SUENO_ROTICERIA.vcf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
