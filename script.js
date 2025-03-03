@@ -1,11 +1,11 @@
 function guardarContacto() {
     const vCardData = `BEGIN:VCARD
 VERSION:3.0
-FN:Traslasierra VIP
-ORG:Turismo de Aventura;
-TEL;TYPE=CELL:+5493544560101
-EMAIL:traslasierraVip@gmail.com
-URL:https://ejemplo.com
+FN:Mi Sueño 
+ORG:Roticeria;
+TEL;TYPE=CELL:+5493544592971
+EMAIL:villalobomariabelen84@gmail.com
+URL:https://traslasierravip.github.io/misueno-roticeria/
 NOTE:Experiencias exclusivas en la naturaleza
 END:VCARD`;
 
